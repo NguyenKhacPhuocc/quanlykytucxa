@@ -11,6 +11,7 @@ using System.Windows.Forms;
 namespace nhomc_
 {
     /// <summary>
+    //ádasdasdasd
 // ádasdasdasdasdasdasd
     /// </summary>
     public partial class Form1 : Form
