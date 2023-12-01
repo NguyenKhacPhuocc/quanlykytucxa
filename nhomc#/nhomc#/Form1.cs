@@ -22,5 +22,5 @@ namespace nhomc_
             InitializeComponent();
         }
     }
-}//f
+}
 //ádasdasdasdasd
