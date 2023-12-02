@@ -12,8 +12,8 @@ namespace nhomc_
 {
     /// <summary>
     //ádasdasdasd
-    // ádasdasdasdasdasdasd
-    //dddddd
+// ádasdasdasdasdasdasd
+//dddddd
     /// </summary>
     public partial class Form1 : Form
     {
