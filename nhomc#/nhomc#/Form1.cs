@@ -21,6 +21,15 @@ namespace nhomc_
         {
             InitializeComponent();
         }
+
+        private void thêmNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 test = new Form2();
+            test.Show();
+
+        }
+
+        
     }
 }
 //ádasdasdasdas
