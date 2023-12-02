@@ -1,0 +1,10 @@
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\bin\Debug\nhomc#.exe.config
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\bin\Debug\nhomc#.exe
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\bin\Debug\nhomc#.pdb
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc#.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc_.Form1.resources
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc_.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc#.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc#.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc#.exe
+C:\Users\ADMIN\OneDrive\Desktop\decC#\quanlykytucxa\nhomc#\nhomc#\obj\Debug\nhomc#.pdb

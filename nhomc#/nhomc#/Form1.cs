@@ -21,6 +21,11 @@ namespace nhomc_
         {
             InitializeComponent();
         }
+
+        private void thêmPhòngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("test");
+        }
     }
 }
 //ádasdasdasdas
