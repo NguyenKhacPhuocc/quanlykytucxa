@@ -19,13 +19,17 @@ namespace nhomc_
     {
         public Form1()
         {
+           //phuoccc
             InitializeComponent();
         }
 
         private void thêmPhòngToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //phuoc
+            //phuocc
             MessageBox.Show("test");
         }
+        //phuoccccc
     }
 }
 //ádasdasdasdas
