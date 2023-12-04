@@ -25,8 +25,6 @@ namespace nhomc_
 
         private void thêmPhòngToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //phuoc
-            //phuocc
             MessageBox.Show("test");
         }
         //phuoccccc
